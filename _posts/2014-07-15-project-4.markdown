@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2024-01-01
 img: web-application-development-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: web-application-development by Jay Mishra
+project-date: Jan 2024
+client: Self Promotions
+category: Web Application Development
+description: I am a professional web application developer with expertise in WordPress, PHP, Node.js, and JavaScript. I specialize in custom theme development, plugin development, and more. My portfolio showcases my ability to translate a client’s vision into a digital masterpiece, ensuring that each web application I design is unique, responsive, and aligned with the latest web standards. I take pride in my ability to craft web applications that are not only visually striking but also highly functional, with a deep understanding of user experience. Please feel free to explore my portfolio and contact me if you have any questions or would like to discuss a project.👨‍💻
 ---
