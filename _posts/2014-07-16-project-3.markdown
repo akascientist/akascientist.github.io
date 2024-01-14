@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2024-01-01
 img: plugin-and-theme-development.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: plugin-and-theme-development by Jay Mishra
+project-date: Jan 2024
+client: Self
+category: Plugin and Theme Development
+description: As a professional plugin and theme developer, I have a deep understanding of the web platform architecture and APIs. I am proficient in creating custom plugins and themes for web platforms like Edge, Chrome, Mozilla, etc., using HTML, CSS, and JavaScript. I have a keen eye for aesthetics and user experience, which allows me to craft visually striking and highly functional websites. With my skills in React, Angular, or Vue.js, I can deliver innovative and intuitive web solutions tailored to client needs. I take pride in translating client visions into digital masterpieces, with a commitment to excellence in every project in plugin and theme development. You can count on me for the development part 😊
 ---
