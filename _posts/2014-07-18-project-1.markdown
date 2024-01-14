@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
+date: 2024-01-01
+img: website-design-thumbnail.png
+alt: website-design-by-jay_mishra
+project-date: Jan 2024
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: With a keen eye for aesthetics and a deep understanding of user experience, I craft websites that are not only visually striking but also highly functional. My proficiency in PHP, Node.js, WordPress, and JavaScript empowers me to deliver bespoke web solutions that are both innovative and intuitive.
+
+I take pride in my ability to translate a client’s vision into a digital masterpiece, ensuring that each website I design is unique, responsive, and aligned with the latest web standards. My commitment to excellence is reflected in every line of code and every pixel on the screen.
+
+If you’re seeking a website that sets you apart from the competition, let’s connect and bring your vision to life.
+
+
 ---

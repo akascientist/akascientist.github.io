@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -40,23 +40,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/akajaymishra
   - title: facebook
-    url:
+    url: http://facebook.com/akajaymishra 
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://stackoverflow.com/users/23229658/akascientist
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/official-akascientist
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/akascientist
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Noida Sec 59
+  - line: Near Metro Station, UP- 201301
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Jay Mishra is a professional web developer and digital marketer working for businesses and clients trying to achieve a standard space online 😊 <a href="https://instagram.com/jaymishra"></a>.'
 
 # Build settings
 markdown: kramdown
